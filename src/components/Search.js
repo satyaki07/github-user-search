@@ -16,7 +16,7 @@ const Search = () => {
 
       // setUser("");
     }
-    console.log(user);
+    // console.log(user);
   };
   return (
     <section className="section">
