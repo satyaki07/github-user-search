@@ -2,6 +2,8 @@
 
 React app to search Github profiles. This app uses [Context API](https://reactjs.org/docs/context.html) along with [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext) hook for state management and [Auth0](https://auth0.com/) for authentication.
 
+### [Live Demo](https://react-search-user-github.netlify.app/)
+
 ## Styled Components
 
 [Styled-Components - Main Docs](https://styled-components.com/)
