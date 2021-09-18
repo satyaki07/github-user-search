@@ -1,9 +1,6 @@
-## Starter Project
+# Github User Search
 
-- css provided (global styles, styled components)
-- folders/files already setup
-- all imports included (warnings)
-- index.js for easier imports
+React app to search Github profiles. This app uses [Context API](https://reactjs.org/docs/context.html) along with [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext) hook for state management and [Auth0](https://auth0.com/) for authentication.
 
 ## Styled Components
 
@@ -31,8 +28,8 @@ export default ReactComponent
 [React Icons - Main Docs](https://react-icons.github.io/react-icons/)
 
 ```jsx
-import { FiUsers, FiUserPlus } from 'react-icons/fi';
-<FiUsers className='nameOfTheClass'> </FiUsers>;
+import { FiUsers, FiUserPlus } from "react-icons/fi";
+<FiUsers className="nameOfTheClass"> </FiUsers>;
 ```
 
 ## React Router Dom
